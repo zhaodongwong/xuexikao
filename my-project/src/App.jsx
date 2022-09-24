@@ -126,7 +126,7 @@ function App() {
   
 
   return (
-    <div className="text-4xl lg:text-9xl bg-black text-white w-full h-full font-['Montserrat']">
+    <div className="text-4xl lg:text-7xl bg-black text-white w-full h-full font-['Montserrat']">
       <div className='flex justify-center animate__animated animate__backInDown'>
       Time Quote Generator
       </div>
